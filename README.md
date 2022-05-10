@@ -4,6 +4,7 @@ It`s my portfolio project. This landing have a burger menu on all screens.
 Main block have a few sections with articles and news.
 Also landing have a block "Subscribe" with input for email.
 In the big footer social links and map of site.
+And I added static button to up page.
 
 ## Technology
 
